@@ -1,6 +1,7 @@
 # estudo-ddd
 
-Arquivos referente a order estão em:<br>
-src/infrastructure/repository/order.repository.ts<br>
-src/infrastructure/repository/order.spec.repository.ts<br>
-src/domain/repository/order-repository.interface.ts<br>
+Resolução do desafio Eventos de Customer
+
+Arquivos referente estão em:<br>
+- src/event/@shared/event-dispacther.spec.ts
+- src/event/customer/
